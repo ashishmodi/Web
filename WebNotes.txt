@@ -1,0 +1,7 @@
+Dr. Angelena Yu
+submarinecablemap.com shows entire internet cables.
+https://devdocs.io/    https://codepen.io/       https://replit.com/    https://www.appbrewery.co/p/web-development-course-resources/   web.archive.org
+docs.emmet.io/cheat-sheet
+Search engine uses meta description for result rankings and to display relavant info. Also it uses alt attribute for the same purpose.
+Form action could be mailto as well:
+Goto Chrome -> settings -> privacy -> site settings -> permission -> additional permission -> protocol handlers -> sites allowed to handle protocols -> restart gmail. Now in the address bar, you will be able to see "Allow Gmail to open all email links."

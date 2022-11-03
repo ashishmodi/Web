@@ -1,0 +1,7 @@
+body { margin: 0; } /* all side margin is 0 now */
+.top  { background-color: aquamarine; border: solid; border-width: 1px 3px 5px 7px; 
+       padding: 4px; margin: 15px; width: 150px; /*total 185px width*/
+}
+.middle { width: 200px; height: 200px; border: dotted 5px;}
+h1   { margin-top: 0px; }
+.pro { text-decoration:underline; display: inline-block; width: 50px;}

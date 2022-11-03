@@ -5,3 +5,9 @@ docs.emmet.io/cheat-sheet
 Search engine uses meta description for result rankings and to display relavant info. Also it uses alt attribute for the same purpose.
 Form action could be mailto as well:
 Goto Chrome -> settings -> privacy -> site settings -> permission -> additional permission -> protocol handlers -> sites allowed to handle protocols -> restart gmail. Now in the address bar, you will be able to see "Allow Gmail to open all email links."
+Even if you don't write style attribute explicitly, there is still default css which applies for browser.
+id vs class: Unlike class, you can only have 1 instance of id in a single page. Also you can have more than one class for a particular element, but you cannot have more than one id.
+Use favicon.cc for icon.
+<p> is block element i.e. color applies to entire line even in blank space.
+Certain properties doesn't work with span which works with <p>, like you can't set width: 100px in css for span.
+display: none can be used in an application like quiz to hide certain elements. visibility: hidden also does the same thing, but it keeps position of all other elements as it is.

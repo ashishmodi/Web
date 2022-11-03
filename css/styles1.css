@@ -1,0 +1,23 @@
+body {
+    background-color: aqua;
+}
+
+hr { /* Here hr is selector { property: value }. Also use alphabetical order. */
+    border-style: dotted;
+    border-width: 3px;
+    width: 50px;
+}
+
+img {
+    height: 100px;
+    width: 80%;
+}
+
+h1 { /*class selector should be used to avoid generic effect*/
+    font-size: medium;
+    text-emphasis-color: "blue";
+}
+h1:hover { color: gold; }
+.testCSS { font-size: medium; text-emphasis-color: "red"; color: greenyellow; }
+.italicFont  { font-style: italic; }
+#heading { color: blue; }
